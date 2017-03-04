@@ -78,8 +78,6 @@
 
 __webpack_require__(0);
 
-alert("holaaaa");
-
 
 /***/ })
 /******/ ]);
