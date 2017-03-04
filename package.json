@@ -1,0 +1,39 @@
+{
+  "name": "mjuanfe-webpage",
+  "version": "1.0.0",
+  "description": "Portfolio and professional info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjuanfe/mjuanfe.github.io.git"
+  },
+  "keywords": [
+    "mjuanfe",
+    "web",
+    "page",
+    "portfolio",
+    "design",
+    "contact"
+  ],
+  "author": "mjuanfe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjuanfe/mjuanfe.github.io/issues"
+  },
+  "homepage": "https://github.com/mjuanfe/mjuanfe.github.io#readme",
+  "dependencies": {
+    "metalsmith": "^2.3.0"
+  },
+  "devDependencies": {
+    "css-loader": "^0.26.2",
+    "extract-text-webpack-plugin": "^2.0.0",
+    "node-sass": "^4.5.0",
+    "sass-loader": "^6.0.2",
+    "style-loader": "^0.13.2",
+    "webpack": "^2.2.1"
+  }
+}
