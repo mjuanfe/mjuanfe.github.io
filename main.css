@@ -1,2 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%; }
+
+section {
+  height: 50%; }
+
+.bgcolor1 {
+  background-color: #ADFFE0; }
+
+.bgcolor2 {
+  background-color: #B4E8C8; }
+
+.bgcolor3 {
+  background-color: #B6E8E0; }
+
 .angry {
-  color: grey; }
+  color: #262b49; }

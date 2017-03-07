@@ -1,4 +1,19 @@
+@import 'reset';
 @import 'variables';
+
+section{
+  height: 50%;
+}
+
+.bgcolor1{
+  background-color: $bgcolor1;
+}
+.bgcolor2{
+  background-color: $bgcolor2;
+}
+.bgcolor3{
+  background-color: $bgcolor3;
+}
 
 
 .angry{
