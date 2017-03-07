@@ -1,8 +1,21 @@
 @import 'reset';
 @import 'variables';
+@import 'jquery.fullpage';
 
 section{
-  height: 50%;
+  height: 100%;
+}
+ul{
+  list-style: none;
+}
+li{
+  display: inline;
+}
+.header_main{
+  height: $header_height;
+}
+.height_adjust1{
+  height: calc(100% - #{$header_height});
 }
 
 .bgcolor1{
@@ -14,7 +27,6 @@ section{
 .bgcolor3{
   background-color: $bgcolor3;
 }
-
 
 .angry{
   color: $color-first;
