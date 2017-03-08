@@ -12,6 +12,7 @@ module.exports = {
     path: path.resolve(__dirname, './'),
     filename: 'bundle.js'
   },
+  watch: true,
   module: {
       rules: [{
           test: /\.scss$/,

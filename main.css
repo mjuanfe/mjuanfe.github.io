@@ -245,10 +245,10 @@ li {
   display: inline; }
 
 .header_main {
-  height: 10%; }
+  height: 20%; }
 
 .height_adjust1 {
-  height: calc(100% - 10%); }
+  height: calc(100% - 20%); }
 
 .bgcolor1 {
   background-color: #ADFFE0; }
